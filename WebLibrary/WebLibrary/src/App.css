@@ -1,0 +1,34 @@
+.MainDiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.Card{
+    width: 350px;
+    border-radius: 30px ;
+    border: 1px solid gray;
+    padding: 30px;
+}
+.CardDiv{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+.delete{
+    width: 100px;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    background-color: brown;
+    color: white;
+    cursor: pointer;
+}
+.Refresh{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}

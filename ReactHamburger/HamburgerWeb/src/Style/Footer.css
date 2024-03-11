@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.Footer{
+    background-color: #2B2B2B;
+    color: #CCCC;
+}
+.block{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    margin-right: 20px;
+}
+.haklar{
+    text-align: center;
+}
+h2{
+    color: white;
+}
+h5{
+    margin-top: 10px;
+    padding-top: 10px;
+    cursor: pointer;
+}
+.Hakkımızda{
+    color:#CCCC ;
+    text-decoration: none;
+}
+.haklar{
+    margin-top: 50px;
+}
+.üretim{
+    margin-top: 50px;
+}
+.social{
+    margin-top: 10px;
+    cursor: pointer;
+}

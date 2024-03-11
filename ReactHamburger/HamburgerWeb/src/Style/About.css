@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+}
+.about {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 100px;
+  }
+  
+  .aboutTop {
+    margin-top: 20px;
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+  }
+  
+.Desc{
+    display: flex;
+    flex-direction: column ;
+    margin-top: 50px;
+
+}
+.about .Desc h1 {
+    margin-bottom: 10px;
+    margin-top: 50px;
+    font-weight: 400;
+    font-size: 70px;
+    color: #1B1B1B;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    transform: translateY(-40px);
+}
+.about .Desc p{
+    font-size: 16px;
+}
+.about .Desc h4{
+
+    font-size: 20px;
+}
+  
